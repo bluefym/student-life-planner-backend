@@ -1,7 +1,7 @@
 package com.studentlife.backend.expense.repository;
 
 import com.studentlife.backend.expense.entity.Expense;
-import com.studentlife.backend.expense.entity.ExpenseCategory;
+//import com.studentlife.backend.expense.entity.ExpenseCategory;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
